@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Eduardo Nishimura 🖖
-👨‍💻 Sou estudante de Sistemas de Informação. Atualmente estudo sobre desenvolvimento front-end mirando pela a primeira oportunidade de experiência profissional na área. 
+👨‍💻 Sou estudante de Sistemas de Informação. Atualmente estudando desenvolvimento web atuando com ferramentas como React, Express, Node, Javascript, HTML, CSS. Buscando primeira experiência profissional na área de Desenvovimento.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
